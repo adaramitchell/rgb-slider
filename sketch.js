@@ -6,7 +6,7 @@ function setup(){
     
     //createSlider(min, max, default)
     rickyaSlider = createSlider(0, 255, 0);
-    //.position(x, y)
+    //.position(x, y)-
     rickyaSlider.position(20,20);
     
     godelSlider = createSlider(0, 255, 0);
